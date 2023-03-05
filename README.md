@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20SEONGHUN's%20STUDYROOM!!!&fontSize=32&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=fffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20SEONGHUN's%20STUDYROOM!!!&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=fffff" />
 
 <div align=center><h1>📚 STACKS</h1></div>
 
