@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?
+          type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=성훈이의%20공부방%20F0%9F%91%8B&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=fffff" />
 
 
 
