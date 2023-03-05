@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
-          text=SEONGHUN%20STUDYROOM!!!&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=fffff"/>
+<img src="https://capsule-render.vercel.app/api?
+          type=wave&color=0:ed9d0b,100:f94001&height=180&section=header&
+          text=SEONGHUN%20STUDYROOM!!!&fontSize=32&
+          animation=fadeln&fontAlignY=36&fontColor=fffff"/>
 
 
 
